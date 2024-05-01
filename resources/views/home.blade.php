@@ -6,7 +6,7 @@
             <x-Categories/>
         </div>
         <div class="col-span-4">
-            container
+            container new
         </div>
     </div>
 </x-layout-public>
