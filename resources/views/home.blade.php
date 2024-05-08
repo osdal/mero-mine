@@ -1,7 +1,7 @@
 <x-layout-public>
     <x-banner-top/>
     <x-Menu-top/>
-    <div class="container mx-auto grid grid-cols-5">
+    <div class="container mx-auto flex">
         <div class="p-3 pl-0 gap-3">
             <x-Categories/>
         </div>
