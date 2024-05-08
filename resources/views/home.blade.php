@@ -6,7 +6,7 @@
             <x-Categories/>
         </div>
         <div class="col-span-4">
-            container new
+            container new tree
         </div>
     </div>
 </x-layout-public>
