@@ -2,11 +2,11 @@
     <x-banner-top/>
     <x-Menu-top/>
     <div class="container mx-auto flex">
-        <div class="p-3 pl-0 gap-3">
+        <div class="p-3 pl-0 gap-3 w-1/6">
             <x-Categories/>
         </div>
-        <div class="col-span-4">
-            container new tree
+        <div class="flex flex-col w-full">
+            <x-Slider/>
         </div>
     </div>
 </x-layout-public>
