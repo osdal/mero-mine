@@ -1,0 +1,1 @@
+<div class="bg-black h-full w-full"></div>

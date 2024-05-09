@@ -8,6 +8,7 @@
             </div>
             <div class="p-3 flex flex-col w-full">
                 <x-Slider/>
+                <x-Top-block-banners/>
             </div>
         </div>
     </x-layout-public>
