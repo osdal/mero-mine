@@ -43,6 +43,13 @@ module.exports = {
             }
         },
         container: {
+            padding: '2rem', // пример настройки внутренних отступов
+            maxWidth: {
+                'sm': '640px',
+                'md': '768px',
+                'lg': '1024px',
+                'xl': '1280px',
+            },
             screens: {
                 '2xl': '1615px',
             }
