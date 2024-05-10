@@ -21,6 +21,6 @@ class DropdownCategories extends Component
      */
     public function render(): View|Closure|string
     {
-        return view('components.top-block-banners');
+        return view('components.dropdown-categories');
     }
 }
