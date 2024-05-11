@@ -1,8 +1,9 @@
-<div class="font-w-bold">Популярные категории</div>
+<div class="font-bold">Популярные категории</div>
 
 <div class="flex gap-2 justify-center align-middle">
     <div class="flex-1">
         <img class="w-full" src="{{ asset('img/pop-categories/cat-1.png') }}" alt="Пример изображения">
+        <p>Профиль для гипсокартона </p>
     </div>
     <div class="flex-1">
         <img class="w-full" src="{{ asset('img/pop-categories/cat-2.png') }}" alt="Пример изображения">
