@@ -11,6 +11,7 @@
                 <div class="flex max-w-full gap-4"> 
                     <x-Top-block-banners />
                 </div>
+                <x-Pop-categories/>
             </div>
         </div>
     </x-layout-public>
