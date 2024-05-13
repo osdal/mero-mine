@@ -6,7 +6,7 @@
             <p class="font-medium w-auto">до -15%</p>
         </div>
         <img class="w-full pb-4" src="{{ asset('img/pop-categories/cat-1.png') }}" alt="Пример изображения">
-        <p class="leading-6 text-center text-am">
+        <p class="leading-6 text-center text-sm">
             <a href="#" class="hover:text-red-500  focus:text-red-500 transition-colors duration-300">Профиль для гипсокартона</a>
         </p>
     </div>
