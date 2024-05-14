@@ -12,6 +12,7 @@
                     <x-Top-block-banners />
                 </div>
                 <x-Pop-categories/>
+                <x-Front-page-goods/>
             </div>
         </div>
     </x-layout-public>
