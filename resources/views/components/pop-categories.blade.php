@@ -1,4 +1,4 @@
-<div class="font-bold">Популярные категории</div>
+<div class="font-bold mb-5">Популярные категории</div>
 
 <div class="flex gap-4 justify-between">
     <div class="w-1/12 flex flex-col relative">
