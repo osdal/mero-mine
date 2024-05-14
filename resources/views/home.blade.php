@@ -1,4 +1,4 @@
-<div class="container">
+<div class="">
     <x-layout-public>
         <x-banner-top />
         <x-Menu-top />
