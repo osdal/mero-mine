@@ -11,7 +11,6 @@
     transform: translate(-65%, -65%);
 }
 
-
 @layer base {
     h1 {
         @apply text-2xl font-bold;
@@ -26,17 +25,19 @@
     .btn-primary {
         @apply bg-blue-500 text-white font-bold py-2 px-4 rounded;
     }
-    
+
     .card {
         @apply bg-white shadow-md rounded-lg p-6;
     }
+
+    .mesure {}
 }
 
 @layer utilities {
     .text-shadow {
         text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.1);
     }
-    
+
     .content-auto {
         content-visibility: auto;
     }
