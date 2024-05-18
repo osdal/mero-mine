@@ -42,6 +42,10 @@ module.exports = {
 
             }
         },
+        corePlugins: {
+            transform: true,
+            translate: true,
+        },
         container: {
             padding: '2rem', // пример настройки внутренних отступов
             maxWidth: {

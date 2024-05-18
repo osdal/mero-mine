@@ -1,6 +1,6 @@
 <p class="font-bold pb-8">Популярные товары</p>
 
-<div class="w-full grid grid-cols-5">
+<div class="w-full grid grid-cols-5 gap-3">
     <div class="cart">
         <div class="w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <a href="#">
@@ -39,8 +39,8 @@
     </div>
     <div class="">
         <div class="cart w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-            <div class="flex">
-                <div class="mesure flex  bg-blue-700 text-white px-4 rounded-sm items-center gap-4">
+            <div class="flex justify-between">
+                <div class="mesure flex  h-full bg-blue-700 text-white px-4 py-1 rounded-sm items-center gap-4">
                     <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                         <path d="M23.3828 0H0.382812V23H23.3828V0Z" fill="url(#pattern0_1798_10483)" />
                         <defs>
@@ -73,11 +73,9 @@
                             <image id="image0_1798_10428" width="512" height="512" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAgAAAAIAAQMAAADOtka5AAAAAXNSR0IB2cksfwAAAAlwSFlzAAAOdQAADnUBuWNRMgAAAAZQTFRFAAAAEGDBMN+DPgAAAAJ0Uk5TAP9bkSK1AAAJRUlEQVR4nO1cS5LkKAy1wwsv8wgchaPho3GDuYKPUBGzyUVH5XRNGvR54pfuiZgF2lQliCfpSf5h8LJMmTJlypQpU6ZMmTJlypQpU6ZMmTJlypQpU6ZM+b/J67d8fz58e73l+HD8+kryIUAe//r10XhHAK/zg/Hbi8sHAF4AfN104AMXvAIYdUE7MFxOTgO84hgAjB+shQcCjBW0pnCUxtUYP0SjFcFQDMEE6I/BjGAkD3YEAzFYOfiR814E/THsJYDeQ9IVAWIfQHF8ZyLhSB4loZTEbhJ8BeDsAaiMfz07xlco6DsiaxR0kVCjoKsSquM7KqFKQU8l1CnoIKFOQQcJjfFNEuBc8Jf63SoleS74t242bKqIE9qH4dVRBwgWYbvVWBCbL2e2WsLjZdHyIOos8jI6WbszcQ3xBUXuwlEDYByeooO5ECvjuSHZw8ipsVhRI99qLDIOD9VFtVBjkSLF474UXMHPE/ooQbEMULOyV8CTEIfGmYsyVE5D3YivoF9CHB41+HIa6jbWKvy/0ogy5ygWxhOHtoar47eDzP2lYn60FFppyByeLYVCfybpaLlYUGjmObMc693FAz5Xwml271b3KrwNVRNWhE4qp0qw05A4ZhTsyqEdVer+BaWdSThg9EJJIIs7cJKMRGO8kSMPEXswgvFRmRkOJ6Ktwyn1kT0jr8lNK48OwJO/TD05ZaUhgLlXFtQyACBgdp2L4OcB49E5dp37gsYIAMkecegI4AlqJwDsYCwQALm1gpq2F7WqCjloR5P4CodGdWIeQ4VDi0UAqHHIWUxcHWr8BqYCByDcRE1UAAn41C6Bx6AoQ8ueqft+8thrV2XE4BJ47DQrApdiVc9OkAadx6BxnQTAYlYAQI2XAJiGQ4zH5AQJwDwGVe7XodWyAF2nAABm4OmNoJ2mlTVSpPAETB4/NK3MLSz5LOTxpo0xykgLHqHJ4xVoXQxmnQZ4gjIfj7n1GoB5HLRyDusblEwAp93NlKEVEgb+0IRZmdHjeci7pjU7RZjGjCCFvIG5RFnUOr/NGHdOKwSMvLLL+OUd5yxoVjCz7NybomGcea2OPj1YiwfOXJsVnikk/aGDQhVuYwV4uHvDyvCcpqAD3LRBBzx7btRpAPAJWL2MfnEHv6H7l/qNGpF7zLu9aoEsLiJPKzjoZAvSvEoLQaU9sZ5agNQLILvkNcAuWceb8k265HSSNjlCOZQVsksPDbBKnxUl2acofzIPFwmgk5JGZJdWAAgiRl0WyeelDODFEMiiBlh0lq6ov01GMoA+yYNCMrFCFt8G9KMSd3HjidtkVWSAZ/l3Mvoes0MZvC3qU5C4nnOvRTwVAHE9D4w3wSgDOOn3DgCeZU7mlPAj/d7AhGODZFV1AjwYAJbBG+Cg3ysA7CxuLIMFWIWGjZgXKe0GWCn3oqiYvvA4aICFzO5YBj0AIQeOZ/23f5h24SQB8IwOAPicO15THOBZB3B5GEFVABwAUCVRMFk2GyDyFqokoww28Olh6/xkhlXEEEAex2pyCGCRAPLefQNWdgQIV+g7lkEfgL/If2AZwByc1XIVwlf+OwyQLDssA8NhDOqK/XmFErGvBbBd5AUsgxGA7wtAdPUBrHcBlgvAqKNOgMu0UUedAJ4BqPmMHXi1ABwDUDMqfQAPBqC6EGAtaV0A0cBuAmx/EuB2CLdJvJ3G24V0p5SvPx8AXKbfAMc4QDqc/Z8BENpjpzRnVNLQSdUZlTR0Wr99Ybl9abt9ccUH48HLu3zO7gdYFYDoHLrFuX+T5bEQxm7zHBbC2I2mUUn9t7rPHMzwvXLIkfOHlyTQEqBWXpl760axDcCec6xbVYCEBv6cY1RSG4A/5xiVFJRP+NjHn3OMSgrKp9KT6zf7f/DJ1bPkOywEr4LCh+/ArBqPbV4FhY//Lxa38eBoAhgzGCcFKAvBqQH6t5w2MR6enXLZawA5bcLdYS53TAMdrNvop9+g4ARvHgqhcyos+YiF0DkZl4ZgIXROBz4FwMiEpJpEVTOkWaE8JaomUdUMaQ66PCmrZudxPrA1LexU0JISajmEAdbtVYtMCrVEHiLOnFOLL2iUJufhjYgr+Fh6PQBvRLAQhE8QIbwRwblxTjPO3cMbEZydr7+kueCjJgVtFF4TeQhZs9p4UfUC0nVe66/KjHemXkNWX9YZb21LrHAhAOO9Mb6pQgAwx8+RmKmgx7OIPZgz3tYBAL6PjQwAefVlAHP9QClOEvLOXMEQNGjl1fkO7pLHUWuREGUOSFmMzFSWD3gdE/OYGisLGIJ2iXnM3NIAAB0FADIb5PhvUD0EQHP9AK5wWaSAX04CPHVHYSUMLlx66Q4PdPFmMqQKgVwDl4RBrHhNTmlZWDIIrOj2pHgqAExO4OMxCYcCwHOv4wDwkru4KqyQBljrVVyXVliNE7WnxZVxhfVAOeLEoc4ihZxV7cV9KbATABJ0dpaziBxGAMClceYCx+TWAQArGLOWWGZiYHzOI67eehl1WFslSs6lePFmyEiCdRnPB+QJmLWVsrB2ylpsduL4bA+X9hrVGXF87tTrnbm5HJQx3lzMHBSiQyOL0pbx6Tm4pGIlgRjmvc5YHFJIQsE/sezcyOtidZu93ERh6X1jYf3CDnC7uxEhUygt7k/9pe0JOUY7Ce3tCa7lYlY47f7Q6G9twaATzFEAyBo2SXSKK4xv7XTJEZS34lSDJPhSEhpbceiGwYJ/S06DFWVGr2yIqhp51dAvqW2IIvDaprCKlUxwhcPaprDOjXHEoo6Beqpb8x5FNeqobg5kjhrvPNocljcHEjmNvbZM0Zi8a3Io7+0OamatjU2i/N4OL+oYGoi4tzutxsZGWWtPrGyr1eGPBKEdf5pES+VYfouT6q+/1e/mJwxa+6WbG6YbO7Y7tmw3ANqbxn0dIDYBGiQ0xzdI6Ph+QfEDEJ0UlD6i0U2BMfkxRkHtGxSdn3CokdD3EQl/j4JaJXR+EaVcCa1zQZIiwNkJUCTh6AQoJbL7gyqlRPZ/0qUQQ28EpUQOfNbGjmHkwzrhXgR2DEMfF7JiOEcArDwMjTdqqfc4SAI0xkEATeP4t7puOqBd+ORjYTcdkIkYTcFbWC18NJ4FcXwIUNqNOSDhhv9TpkyZMmXKlClTpkyZMmXKlClTpkyZMmXKlClT/jv5B21BwzGuyHfeAAAAAElFTkSuQmCC" />
                         </defs>
                     </svg>
-
-
                 </div>
             </div>
-            <a href="#">
+            <a href="#" class="transform translate-x-4 translate-y-6">
                 <img class="p-8 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
             </a>
             <div class="px-5 pb-5">
