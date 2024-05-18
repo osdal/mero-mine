@@ -30,6 +30,11 @@
         @apply bg-white shadow-md rounded-lg p-6;
     }
 
+    .card img {
+        transform: translateY(-2rem);
+    }
+
+
     .mesure {}
 }
 

@@ -38,7 +38,7 @@
         </div>
     </div>
     <div class="">
-        <div class="cart w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="card w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
             <div class="flex justify-between">
                 <div class="mesure flex  h-full bg-blue-700 text-white px-4 py-1 rounded-sm items-center gap-4">
                     <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -75,7 +75,7 @@
                     </svg>
                 </div>
             </div>
-            <a href="#" class="transform translate-x-4 translate-y-6">
+            <a href="#" class="">
                 <img class="p-8 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
             </a>
             <div class="px-5 pb-5">
