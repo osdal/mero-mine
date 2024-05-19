@@ -75,9 +75,14 @@
                     </svg>
                 </div>
             </div>
-            <a href="#" class="">
-                <img class="p-8 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
-            </a>
+            <div class="flex relative">
+                <div class="round-box bg-black text-white self-end rounded-full p-2 absolute w-1/3 h-1/3">
+                    <p>Black Fridey</p>
+                </div>
+                <a href="#" class="">
+                    <img class="p-8 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                </a>
+            </div>
             <div class="px-5 pb-5">
                 <a href="#">
                     <h5 class="text-xl font-semibold tracking-tight text-gray-900 dark:text-white">Apple Watch Series 7 GPS, Aluminium Case, Starlight Sport</h5>
