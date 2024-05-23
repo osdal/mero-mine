@@ -46,7 +46,7 @@
                 <p class="text-center text-sm">Black Fridey</p>
             </div>
             <a href="#" class="">
-                <img class="p-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
             </a>
         </div>
         <div class="px-5 pb-5">
@@ -73,12 +73,16 @@
             <a href="#" class="">
                 <h5 class=" text-sm font-semibold tracking-tight text-blue-900 dark:text-white">Гипсокартон влагостойкий стеновой Knauf 2000х1200х12,5 мм</h5>
             </a>
-            <div class="data grid grid-cols-2 grid-rows-7">
+            <div class="data grid grid-cols-2">
                 <p class=" text-blue-900">Цена:</p>
                 <p class=" text-blue-900">+ 2.65 балла</p>
                 <div class=" col-span-2"><s>170 &#8372;</s></div>
                 <span class="text-xl font-bold text-red-500 dark:text-white">125.40 &#8372;</span>
                 <span class=" flex items-end text-blue-900">от 30 шт</span>
+                <div class="discount col-span-2 border border-black border-solid rounded-md w-fit max-h-full">
+                    <span class="num bg-red-600 h-fit">-15</span>
+                    <span class="d">Выгода <span>400 &#8372;</span></span>
+                </div>
             </div>
             <div class="price mt-2 flex justify-between text-blue-900 font-semibold">
 
