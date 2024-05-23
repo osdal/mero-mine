@@ -46,7 +46,7 @@
                 <p class="text-center text-sm">Black Fridey</p>
             </div>
             <a href="#" class="">
-                <img class="p-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
             </a>
         </div>
         <div class="px-5 pb-5">
