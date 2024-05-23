@@ -11,7 +11,7 @@
     <link rel="preconnect" href="https://fonts.bunny.net">
     <link href="https://fonts.bunny.net/css?family=figtree:400,600&display=swap" rel="stylesheet"/>
 
-    <script type="module" src="http://[::1]:5173/@vite/client"></script><link rel="stylesheet" href="http://[::1]:5173/resources/css/public.css" /><script type="module" src="http://[::1]:5173/resources/js/public.js"></script></head>
+    <script type="module" src="http://127.0.0.1:5173/@vite/client"></script><link rel="stylesheet" href="http://127.0.0.1:5173/resources/css/public.css" /><script type="module" src="http://127.0.0.1:5173/resources/js/public.js"></script></head>
 <body class="antialiased">
 <section class="top-banner bg-black text-white text-center">
     this is banner
@@ -776,9 +776,9 @@
                 <p class="font-bold pb-8">Популярные товары</p>
 
 <div class="w-full grid grid-cols-5 gap-1">
-    <div class="card w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
-        <div class="flex justify-between">
-            <div class="mesure flex  h-full bg-blue-700 text-white px-4 py-1 rounded-sm items-center gap-4">
+    <div class="card p-1 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+        <div class="flex">
+            <div class="mesure flex mr-2 h-full w-1/3 bg-blue-700 text-white px-2 py-1 rounded-sm items-center gap-4">
                 <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M23.3828 0H0.382812V23H23.3828V0Z" fill="url(#pattern0_1798_10483)" />
                     <defs>
@@ -788,7 +788,10 @@
                         <image id="image0_1798_10483" width="512" height="491" xlink:href="data:image/png;base64,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" />
                     </defs>
                 </svg>
-                <p class="">10 л</p>
+                <p class=" text-xs">10 л</p>
+            </div>
+            <div class="hit flex justify-center h-full mr-auto w-1/3 bg-orange-600 text-white font-semibold px-2 py-1 rounded-sm items-center gap-4">
+                <p class="">ХИТ</p>
             </div>
             <div class="filling">
                 <div class="pb-4">
@@ -846,11 +849,11 @@
                 <h5 class=" text-sm font-semibold tracking-tight text-blue-900 dark:text-white">Гипсокартон влагостойкий стеновой Knauf 2000х1200х12,5 мм</h5>
             </a>
             <div class="data grid grid-cols-2 grid-rows-7">
-                <p>Цена:</p>
-                <p>+ 2.65 балла</p>
-                <div class="">170 &#8372;</div>
-                <div class=""></div>
-                <span class="text-2xl font-bold text-red-500 dark:text-white">125.40 &#8372;</span><span>от 30 шт</span>
+                <p class=" text-blue-900">Цена:</p>
+                <p class=" text-blue-900">+ 2.65 балла</p>
+                <div class=" col-span-2"><s>170 &#8372;</s></div>
+                <span class="text-xl font-bold text-red-500 dark:text-white">125.40 &#8372;</span>
+                <span class=" flex items-end text-blue-900">от 30 шт</span>
             </div>
             <div class="price mt-2 flex justify-between text-blue-900 font-semibold">
 
