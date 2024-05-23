@@ -79,8 +79,8 @@
                 <div class=" col-span-2"><s>170 &#8372;</s></div>
                 <span class="text-xl font-bold text-red-500 dark:text-white">125.40 &#8372;</span>
                 <span class=" flex items-end text-blue-900">от 30 шт</span>
-                <div class="discount col-span-2 border border-black border-solid rounded-md w-fit">
-                    <span class="num bg-red-600 py-1 h-fit">-15</span>
+                <div class="discount col-span-2 border border-black border-solid rounded-md w-fit max-h-full">
+                    <span class="num bg-red-600 h-fit">-15</span>
                     <span class="d">Выгода <span>400 &#8372;</span></span>
                 </div>
             </div>
