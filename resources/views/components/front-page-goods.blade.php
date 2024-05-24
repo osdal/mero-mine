@@ -49,7 +49,7 @@
                 <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
             </a>
         </div>
-        <div class="px-5 pb-5">
+        <div class="px-0 pb-5">
             <div class="flex items-center mt-2.5 mb-2">
                 <div class="flex items-center space-x-1 rtl:space-x-reverse">
                     <svg class="w-4 h-4 text-yellow-300" aria-hidden="true" xmlns="http://www.w3.org/2000/svg" fill="currentColor" viewBox="0 0 22 20">
@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="col-span-2 flex">
-                    <div class="available flex">
+                    <div class="available flex mr-auto">
                         <svg class=" pr-2" width="25" height="20" viewBox="0 0 25 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M25 0H0V20H25V0Z" fill="url(#pattern0_1765_20194)" />
                             <defs>
