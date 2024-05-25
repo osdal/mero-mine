@@ -73,7 +73,7 @@
             <a href="#" class="">
                 <h5 class=" text-sm font-semibold tracking-tight text-blue-900 dark:text-white">Гипсокартон влагостойкий стеновой Knauf 2000х1200х12,5 мм</h5>
             </a>
-            <div class="data grid grid-cols-2">
+            <div class="data grid grid-cols-[auto,1fr]">
                 <p class=" text-blue-900">Цена:</p>
                 <p class=" text-blue-900">+ 2.65 балла</p>
                 <div class=" col-span-2"><s>170 &#8372;</s></div>
@@ -107,7 +107,7 @@
                                 <image id="image0_1765_20194" width="512" height="512" xlink:href="data:image/png;base64,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" />
                             </defs>
                         </svg>
-                        <p class=" text-sm">Есть в наличии</p>
+                        <p class="text-sm w-1/2">Есть в наличии</p>
                     </div>
                     <div class="erepaire">
                         <svg width="120" height="18" viewBox="0 0 132 18" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
