@@ -1,7 +1,7 @@
 <p class="font-bold pb-8">Популярные товары</p>
 
 <div class="w-full grid grid-cols-5 gap-1">
-    <div class="card p-1 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700">
+    <div class="card p-1 w-full max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 font-medium">
         <div class="flex">
             <div class="mesure flex mr-2 h-full w-1/3 bg-blue-700 text-white px-2 py-1 rounded-sm items-center gap-4">
                 <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -71,7 +71,7 @@
                 <span class="bg-blue-100 text-blue-800 text-xs font-semibold px-2.5 py-0.5 rounded dark:bg-blue-200 dark:text-blue-800 ms-3">5.0</span>
             </div>
             <a href="#" class="">
-                <h5 class=" text-sm font-semibold tracking-tight text-blue-900 dark:text-white">Гипсокартон влагостойкий стеновой Knauf 2000х1200х12,5 мм</h5>
+                <h5 class=" text-sm font-bold tracking-tight text-blue-900 dark:text-white">Гипсокартон влагостойкий стеновой Knauf 2000х1200х12,5 мм</h5>
             </a>
             <div class="data grid grid-cols-[auto,1fr] w-full gap-2">
                 <p class=" text-blue-900">Цена:</p>
@@ -122,7 +122,7 @@
                     </div>
                 </div>
                 <p class="col-span-2 text-blue-700">Фасовка кг (л)</p>
-                <div class="vol flex justify-between col-span-2">
+                <div class="vol flex justify-between col-span-2 border border-b-slate-300 px-1">
                     <div class="flex gap-3">
                         <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <g clip-path="url(#clip0_1798_10361)">
