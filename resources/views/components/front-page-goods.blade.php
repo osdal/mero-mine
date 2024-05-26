@@ -15,7 +15,7 @@
                 </svg>
                 <p class="text-xs">10 л</p>
             </div>
-            <div class="hit flex justify-center h-full mr-auto w-1/3 bg-orange-600 text-white font-semibold px-2 py-1 rounded-sm items-center gap-4">
+            <div class="hit">
                 <p class="">ХИТ</p>
             </div>
             <div class="filling">
@@ -41,9 +41,9 @@
                 </svg>
             </div>
         </div>
-        <div class="flex relative">
-            <div class="flex items-center z-10 round-box bg-blue-700 text-white self-end rounded-full p-0 absolute top-36 w-1/4 h-1/4">
-                <p class="text-center text-sm">Black Fridey</p>
+        <div class="flex relative justify-center">
+            <div class="discount-spot">
+                <p class="text-center text-sm">Black Friday</p>
             </div>
             <a href="#" class="">
                 <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
