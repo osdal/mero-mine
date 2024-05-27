@@ -84,7 +84,7 @@
                         <span class="num">-15</span>
                         <span class="d font-medium">Выгода &nbsp; </span><span class="disn font-medium text-red-500">400 &#8372;</span>
                     </div>
-                    <div class="cart-icon flex justify-center items-center absolute left-full bg-yellow-300 p-2 rounded-md h-14 w-14  -top-7 -translate-x-1/2">
+                    <div class="cart-icon">
                         <svg width="36" height="35" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M30.3945 0H0.394531V30H30.3945V0Z" fill="url(#pattern0_1765_20240)" />
                             <defs>
