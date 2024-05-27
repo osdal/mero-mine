@@ -81,7 +81,7 @@
                 <span class=" flex items-end text-blue-900">от 30 шт</span>
                 <div class="flex col-span-2 relative">
                     <div class="discount">
-                        <span class="num flex-grow bg-red-600 h-full px-1 text-white font-medium">-15</span>
+                        <span class="num">-15</span>
                         <span class="d font-medium">Выгода &nbsp; </span><span class="disn font-medium text-red-500">400 &#8372;</span>
                     </div>
                     <div class="cart-icon flex justify-center items-center absolute left-full bg-yellow-300 p-2 rounded-md h-14 w-14  -top-7 -translate-x-1/2">

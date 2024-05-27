@@ -65,6 +65,10 @@
     .data .discount {
         @apply flex  border border-black border-solid rounded-md w-fit max-h-full;
     }
+
+    .discount .num {
+        @apply flex-grow bg-red-600 h-full px-1 text-white font-medium;
+    }
     
 
 }
