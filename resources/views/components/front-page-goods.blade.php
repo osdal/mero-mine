@@ -17,14 +17,8 @@
             </div>
             <div class="filling">
                 <div class="pb-4">
-                    <svg width="23" height="20" viewBox="0 0 23 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <path d="M22.9453 0H0.945312V20H22.9453V0Z" fill="url(#pattern0_1798_10432)" />
-                        <defs>
-                            <pattern id="pattern0_1798_10432" patternContentUnits="objectBoundingBox" width="1" height="1">
-                                <use xlink:href="#image0_1798_10432" transform="matrix(0.00195312 0 0 0.00214844 0 -0.0124023)" />
-                            </pattern>
-                            <image id="image0_1798_10432" width="512" height="477" xlink:href="data:image/png;base64,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" />
-                        </defs>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"> <!--! Font Awesome Pro 6.0.0-alpha3 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+                        <path fill="rgb(26 86 219 / var(--tw-bg-opacity))" d="M472.1 270.5l-193.1 199.7c-12.64 13.07-33.27 13.08-45.91 .0107l-193.2-199.7C-16.21 212.5-13.1 116.7 49.04 62.86C103.3 15.88 186.4 24.42 236.3 75.98l19.7 20.27l19.7-20.27c49.95-51.56 132.1-60.1 187.3-13.12C525.1 116.6 528.2 212.5 472.1 270.5z" />
                     </svg>
                 </div>
                 <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -167,14 +161,8 @@
             </div>
             <div class="filling">
                 <div class="pb-4">
-                    <svg width="23" height="20" viewBox="0 0 23 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
-                        <path d="M22.9453 0H0.945312V20H22.9453V0Z" fill="url(#pattern0_1798_10432)" />
-                        <defs>
-                            <pattern id="pattern0_1798_10432" patternContentUnits="objectBoundingBox" width="1" height="1">
-                                <use xlink:href="#image0_1798_10432" transform="matrix(0.00195312 0 0 0.00214844 0 -0.0124023)" />
-                            </pattern>
-                            <image id="image0_1798_10432" width="512" height="477" xlink:href="data:image/png;base64,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" />
-                        </defs>
+                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512"> <!--! Font Awesome Pro 6.0.0-alpha3 by @fontawesome - https://fontawesome.com License - https://fontawesome.com/license (Commercial License) -->
+                        <path fill="rgb(26 86 219 / var(--tw-bg-opacity))" d="M462.3 62.71c-54.5-46.5-136.1-38.99-186.6 13.27l-19.69 20.61l-19.71-20.61C195.6 33.85 113.3 8.71 49.76 62.71C-13.11 116.2-16.31 212.5 39.81 270.5l193.2 199.7C239.3 476.7 247.8 480 255.9 480c8.25 0 16.33-3.25 22.58-9.751l193.6-199.8C528.5 212.5 525.1 116.2 462.3 62.71zM449.3 248.2l-192.9 199.9L62.76 248.2C24.39 208.7 16.39 133.2 70.51 87.09C125.3 40.21 189.8 74.22 213.3 98.59l42.75 44.13l42.75-44.13c23.13-24 88.13-58 142.8-11.5C495.5 133.1 487.6 208.6 449.3 248.2z" />
                     </svg>
                 </div>
                 <svg width="25" height="24" viewBox="0 0 25 24" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -465,7 +453,7 @@
                 </svg>
                 <p class="text-xs">10 л</p>
             </div>
-            <div class="hit">
+            <div class="hit bg-orange-600">
                 <p class="">ХИТ</p>
             </div>
             <div class="filling">
@@ -618,8 +606,8 @@
                 </svg>
                 <p class="text-xs">10 л</p>
             </div>
-            <div class="hit">
-                <p class="">ХИТ</p>
+            <div class="hit bg-red-600">
+                <p class="">Выгода</p>
             </div>
             <div class="filling">
                 <div class="pb-4">
