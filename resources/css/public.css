@@ -27,7 +27,7 @@
     }
 
     .row-goods {
-        @apply w-full grid grid-cols-5 gap-1;
+        @apply w-full grid grid-cols-5 gap-2;
     }
 
     .card {
