@@ -47,7 +47,7 @@
     }
 
     .card img {
-        transform: translateY(-2rem);
+        transform: translateY(-1rem);
     }
 
     .card .stars {

@@ -2,7 +2,7 @@
 
 <div class="row-goods">
     <div class="card">
-        <div class="flex">
+        <div class="flex justify-between">
             <div class="mesure">
                 <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M23.3828 0H0.382812V23H23.3828V0Z" fill="url(#pattern0_1798_10483)" />
@@ -14,9 +14,6 @@
                     </defs>
                 </svg>
                 <p class="text-xs">10 л</p>
-            </div>
-            <div class="hit">
-                <p class="">ХИТ</p>
             </div>
             <div class="filling">
                 <div class="pb-4">
@@ -155,7 +152,7 @@
         </div>
     </div>
     <div class="card">
-        <div class="flex">
+        <div class="flex justify-between">
             <div class="mesure">
                 <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M23.3828 0H0.382812V23H23.3828V0Z" fill="url(#pattern0_1798_10483)" />
@@ -167,9 +164,6 @@
                     </defs>
                 </svg>
                 <p class="text-xs">10 л</p>
-            </div>
-            <div class="hit">
-                <p class="">ХИТ</p>
             </div>
             <div class="filling">
                 <div class="pb-4">
@@ -308,7 +302,7 @@
         </div>
     </div>
     <div class="card">
-        <div class="flex">
+        <div class="flex justify-between">
             <div class="mesure">
                 <svg width="24" height="23" viewBox="0 0 24 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                     <path d="M23.3828 0H0.382812V23H23.3828V0Z" fill="url(#pattern0_1798_10483)" />
@@ -320,9 +314,6 @@
                     </defs>
                 </svg>
                 <p class="text-xs">10 л</p>
-            </div>
-            <div class="hit">
-                <p class="">ХИТ</p>
             </div>
             <div class="filling">
                 <div class="pb-4">
