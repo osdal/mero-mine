@@ -61,6 +61,10 @@
     .card .data {
         @apply grid grid-cols-[auto,1fr] w-full gap-2;
     }
+
+    .data .discount {
+        @apply flex  border border-black border-solid rounded-md w-fit max-h-full;
+    }
     
 
 }

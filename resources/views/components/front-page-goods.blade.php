@@ -80,7 +80,7 @@
                 <span class="text-xl font-bold text-red-500 dark:text-white">125.40 &#8372;</span>
                 <span class=" flex items-end text-blue-900">от 30 шт</span>
                 <div class="flex col-span-2 relative">
-                    <div class="discount flex  border border-black border-solid rounded-md w-fit max-h-full">
+                    <div class="discount">
                         <span class="num flex-grow bg-red-600 h-full px-1 text-white font-medium">-15</span>
                         <span class="d font-medium">Выгода &nbsp; </span><span class="disn font-medium text-red-500">400 &#8372;</span>
                     </div>
@@ -152,7 +152,6 @@
                     </svg>
                 </div>
             </div>
-
         </div>
     </div>
     <div class="card">
