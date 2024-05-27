@@ -73,7 +73,7 @@
             <a href="#" class="">
                 <h5 class="good-name">Гипсокартон влагостойкий стеновой Knauf 2000х1200х12,5 мм</h5>
             </a>
-            <div class="data grid grid-cols-[auto,1fr] w-full gap-2">
+            <div class="data">
                 <p class=" text-blue-900">Цена:</p>
                 <p class=" text-blue-900">+ 2.65 балла</p>
                 <div class=" col-span-2"><s>170 &#8372;</s></div>

@@ -57,6 +57,10 @@
     .card .good-name {
         @apply text-sm font-bold tracking-tight text-blue-900 dark:text-white;
     }
+
+    .card .data {
+        @apply grid grid-cols-[auto,1fr] w-full gap-2;
+    }
     
 
 }
