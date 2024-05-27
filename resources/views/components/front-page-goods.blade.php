@@ -46,7 +46,7 @@
                 <p class="text-center text-sm">Black Friday</p>
             </div>
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-5.png') }}" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
@@ -352,7 +352,7 @@
                 <p class="text-center text-sm">Black Friday</p>
             </div>
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-1.png') }}" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
@@ -505,7 +505,7 @@
                 <p class="text-center text-sm">Black Friday</p>
             </div>
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-3.png') }}" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
@@ -658,7 +658,7 @@
                 <p class="text-center text-sm">Black Friday</p>
             </div>
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-2.png') }}" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
