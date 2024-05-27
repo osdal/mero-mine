@@ -97,7 +97,7 @@
                     </div>
                 </div>
                 <div class="col-span-2 flex">
-                    <div class="available flex mr-auto">
+                    <div class="available ">
                         <svg class=" pr-2" width="25" height="20" viewBox="0 0 25 20" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M25 0H0V20H25V0Z" fill="url(#pattern0_1765_20194)" />
                             <defs>

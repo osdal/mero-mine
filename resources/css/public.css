@@ -74,6 +74,10 @@
         @apply flex justify-center items-center absolute left-full bg-yellow-300 p-2 rounded-md h-14 w-14  -top-7 -translate-x-1/2;
     }
 
+    .data .available {
+        @apply flex mr-auto;
+    }
+
     
 
 }
