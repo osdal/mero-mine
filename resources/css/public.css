@@ -49,6 +49,14 @@
     .card img {
         transform: translateY(-2rem);
     }
+
+    .card .stars {
+        @apply flex items-center mt-2.5 mb-2;
+    }
+
+    .card .good-name {
+        @apply text-sm font-bold tracking-tight text-blue-900 dark:text-white;
+    }
     
 
 }
