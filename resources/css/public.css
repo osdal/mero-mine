@@ -43,7 +43,7 @@
     }
 
     .card .discount-spot {
-        @apply  absolute  z-10 flex items-center self-end left-0 rounded-full text-white w-20 h-20;
+        @apply  absolute  z-10 uppercase flex items-center self-end left-0 rounded-full text-white w-20 h-20;
     }
 
     .card img {
