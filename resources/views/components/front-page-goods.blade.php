@@ -469,7 +469,7 @@
         </div>
         <div class="flex relative justify-center">
             <div class="discount-spot bg-yellow-300 flex flex-col justify-start pt-3">
-                <p class="text-center leading-tight text-[0.6rem] text-black">КУПОН
+                <p class="text-center leading-tight text-[0.6rem] text-black font-semibold">КУПОН
                     БЕСПЛАТНАЯ
                     ДОСТАВКА</p>
             </div>
