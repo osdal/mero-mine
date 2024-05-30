@@ -33,9 +33,9 @@
             </div>
         </div>
         <div class="flex relative justify-center">
-            <div class="discount-spot">
+            <!-- <div class="discount-spot">
                 <p class="text-center text-sm">Black Friday</p>
-            </div>
+            </div> -->
             <a href="#" class="good-img">
                 <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-5.png') }}" alt="product image" />
             </a>
@@ -321,9 +321,9 @@
             </div>
         </div>
         <div class="flex relative justify-center">
-            <div class="discount-spot">
+            <!-- <div class="discount-spot">
                 <p class="text-center text-sm">Black Friday</p>
-            </div>
+            </div> -->
             <a href="#" class="good-img">
                 <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-1.png') }}" alt="product image" />
             </a>
