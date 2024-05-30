@@ -644,8 +644,8 @@
             </div>
         </div>
         <div class="flex relative justify-center">
-            <div class="discount-spot bg-red-600">
-                <p class="text-center text-sm">-15%</p>
+            <div class="discount-spot justify-center font-semibold bg-red-600">
+                <p class="text-center text-2xl">-15%</p>
             </div>
             <a href="#" class="good-img">
                 <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-2.png') }}" alt="product image" />
