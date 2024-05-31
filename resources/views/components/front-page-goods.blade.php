@@ -239,7 +239,7 @@
                         <span class="num">-15</span>
                         <span class="d font-medium">Выгода &nbsp; </span><span class="disn font-medium text-red-500">400 &#8372;</span>
                     </div>
-                    <div class="cart-icon">
+                    <div class="cart-icon bg-yellow-300">
                         <svg width="36" height="35" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M30.3945 0H0.394531V30H30.3945V0Z" fill="url(#pattern0_1765_20240)" />
                             <defs>
@@ -530,6 +530,7 @@
                     </g>
                 </svg>
             </div>
+            <p class="absolute text-black text-base z-10 top-full translate-x-10 -translate-y-3/4 font-bold">Купон выдается от 55 шт.</p>
             <a href="#" class="good-img">
                 <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-3.png') }}" alt="product image" />
             </a>
@@ -579,7 +580,7 @@
                         <span class="num">-15</span>
                         <span class="d font-medium">Выгода &nbsp; </span><span class="disn font-medium text-red-500">400 &#8372;</span>
                     </div>
-                    <div class="cart-icon">
+                    <div class="cart-icon bg-yellow-300">
                         <svg width="36" height="35" viewBox="0 0 31 30" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
                             <path d="M30.3945 0H0.394531V30H30.3945V0Z" fill="url(#pattern0_1765_20240)" />
                             <defs>
