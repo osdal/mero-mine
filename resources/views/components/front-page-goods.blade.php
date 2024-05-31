@@ -502,6 +502,7 @@
                 <p class="text-center leading-tight text-[0.6rem] text-black font-semibold">
                     КУПОН БЕСПЛАТНАЯ ДОСТАВКА
                 </p>
+               
                 <!-- Uploaded to: SVG Repo, www.svgrepo.com, Generator: SVG Repo Mixer Tools -->
                 <svg fill="#000000" height="800px" width="800px" version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 491.1 491.1" xml:space="preserve">
                     <g transform="translate(0 -540.36)">
@@ -533,6 +534,7 @@
             <a href="#" class="good-img">
                 <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-3.png') }}" alt="product image" />
             </a>
+            <p class="text-black">Купон выдается от 55 шт.</p>
         </div>
         <div class="px-0 pb-5">
             <div class="stars">
