@@ -69,7 +69,7 @@
                 <div class="point flex items-center gap-2">
                     <p class=" text-blue-900 inline">+ 2.65 балла
                     </p>
-                    <div class="flex justify-center items-center bg-yellow-300 rounded-full p-1 border">
+                    <div class="flex justify-center items-center bg-yellow-300 h-5 w-5 rounded-full p-1 border border-solid border-black">
                         <svg width="8" height="12" viewBox="0 0 8 12" fill="none" xmlns="http://www.w3.org/2000/svg">
                             <path d="M0.320312 9.45094V1.32544H6.64665V2.56749H1.80612V4.56404H4.20895C5.18405 4.56404 5.92305 4.76912 6.42605 5.17926C6.93685 5.58167 7.19215 6.1698 7.19215 6.94366C7.19215 7.74074 6.90975 8.35984 6.34485 8.80094C5.78765 9.23424 4.99829 9.45094 3.97679 9.45094H0.320312ZM1.80612 8.29014H3.89554C4.47593 8.29014 4.91703 8.17794 5.21885 7.95354C5.52065 7.72914 5.67155 7.40414 5.67155 6.97849C5.67155 6.14272 5.07955 5.72483 3.89554 5.72483H1.80612V8.29014Z" fill="black" />
                             <path d="M3.70703 0.0834961V1.71586" stroke="black" stroke-width="1.45099" />
