@@ -122,7 +122,7 @@
                         </svg>
                     </div> -->
                 </div>
-                <p class="col-span-2 text-blue-700">Фасовка кг (л)</p>
+                <!-- <p class="col-span-2 text-blue-700">Фасовка кг (л)</p> -->
                 <div class="vol flex justify-between col-span-2 border border-b-slate-300 px-1">
                     <div class="flex gap-3">
                         <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -430,7 +430,7 @@
                         </svg>
                     </div> -->
                 </div>
-                <p class="col-span-2 text-blue-700">Фасовка кг (л)</p>
+                <!-- <p class="col-span-2 text-blue-700">Фасовка кг (л)</p> -->
                 <div class="vol flex justify-between col-span-2 border border-b-slate-300 px-1">
                     <div class="flex gap-3">
                         <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -618,7 +618,7 @@
                         </svg>
                     </div> -->
                 </div>
-                <p class="col-span-2 text-blue-700">Фасовка кг (л)</p>
+                <!-- <p class="col-span-2 text-blue-700">Фасовка кг (л)</p> -->
                 <div class="vol flex justify-between col-span-2 border border-b-slate-300 px-1">
                     <div class="flex gap-3">
                         <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
@@ -775,7 +775,7 @@
                         </svg>
                     </div> -->
                 </div>
-                <p class="col-span-2 text-blue-700">Фасовка кг (л)</p>
+                <!-- <p class="col-span-2 text-blue-700">Фасовка кг (л)</p> -->
                 <div class="vol flex justify-between col-span-2 border border-b-slate-300 px-1">
                     <div class="flex gap-3">
                         <svg width="23" height="23" viewBox="0 0 23 23" fill="none" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
