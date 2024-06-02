@@ -37,7 +37,7 @@
                 <p class="text-center text-sm">Black Friday</p>
             </div> -->
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-5.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="img/goods/good-5.png" alt="">
             </a>
         </div>
         <div class="px-0 pb-5">
@@ -162,7 +162,7 @@
                 <p class="text-center text-sm">Black Friday</p>
             </div>
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-4.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="img/goods/good-4.png" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
@@ -316,7 +316,7 @@
                 <p class="text-center text-sm">Black Friday</p>
             </div> -->
             <a href="#" class="good-img">
-                <img class="pt-8 rounded-t-lg" src="{{ asset('img/goods/good-1.png') }}" alt="product image" />
+                <img class="pt-8 rounded-t-lg" src="img/goods/good-1.png" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
@@ -475,7 +475,7 @@
             </div>
             <p class="absolute text-black text-base z-10 top-full translate-x-10 -translate-y-3/4 font-bold">Купон выдается от 55 шт.</p>
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-3.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="img/goods/good-3.png" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
@@ -603,7 +603,7 @@
                 <p class="text-center text-2xl">-15%</p>
             </div>
             <a href="#" class="good-img">
-                <img class="pt-6 rounded-t-lg" src="{{ asset('img/goods/good-2.png') }}" alt="product image" />
+                <img class="pt-6 rounded-t-lg" src="img/goods/good-2.png" alt="product image" />
             </a>
         </div>
         <div class="px-0 pb-5">
