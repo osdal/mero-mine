@@ -12,10 +12,11 @@
                     <div class="flex max-w-full gap-4">
                         <x-Top-block-banners />
                     </div>
-                    <x-Pop-categories />
                 </div>
+                <x-Pop-categories />
             </div>
                 <x-Front-page-goods />
+                <x-Actions-goods />
         </div>
 </div>
 </x-layout-public>
