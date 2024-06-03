@@ -15,12 +15,14 @@
                     <x-Pop-categories />
                 </div>
             </div>
-                <x-Front-page-goods />
-                <x-Actions-goods />
-                <x-Gipsocarton-category />
-                <div class="flex max-w-full gap-4">
-                        <x-Top-block-banners />
-                    </div>
+            <x-Front-page-goods />
+            <x-Actions-goods />
+            <x-Gipsocarton-category />
+            <div class="flex max-w-full gap-4">
+                <x-Middle-block-banners />
+            </div>
+            <x-Gipsocarton-category />
+            <x-Gipsocarton-category />
         </div>
 </div>
 </x-layout-public>
