@@ -17,6 +17,7 @@
             </div>
                 <x-Front-page-goods />
                 <x-Actions-goods />
+                <x-Gipsocarton-category />
         </div>
 </div>
 </x-layout-public>
