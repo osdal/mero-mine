@@ -18,6 +18,9 @@
                 <x-Front-page-goods />
                 <x-Actions-goods />
                 <x-Gipsocarton-category />
+                <div class="flex max-w-full gap-4">
+                        <x-Top-block-banners />
+                    </div>
         </div>
 </div>
 </x-layout-public>
