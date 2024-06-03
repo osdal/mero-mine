@@ -23,6 +23,7 @@
             </div>
             <x-Gipsocarton-category />
             <x-Gipsocarton-category />
+            <x-Gipsocarton-category />
         </div>
 </div>
 </x-layout-public>
