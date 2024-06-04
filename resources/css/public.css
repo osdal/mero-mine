@@ -86,6 +86,13 @@
         @apply text-center text-white font-medium text-sm ;
     }
 
+    .produsers img {
+        @apply mb-6;
+    }
+    .produsers div {
+        @apply flex h-32 flex-col justify-between items-center font-medium;
+    }
+
     
 
 }

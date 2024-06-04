@@ -1,4 +1,4 @@
-<div class="produsers flex justify-between ">
+<div class="produsers flex justify-between items-start">
     <div>
         <img class=" basis-0 flex-shrink" src="img/produsers-logos/logo-1.jpg" alt="">
         <p>Sniezka</p>
