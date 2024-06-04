@@ -78,6 +78,14 @@
         @apply flex mr-auto;
     }
 
+    .videos {
+        @apply flex w-full bg-slate-800 gap-5 p-5;
+    }
+
+    .videos p{
+        @apply text-center text-white font-medium text-sm ;
+    }
+
     
 
 }

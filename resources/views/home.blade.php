@@ -24,6 +24,13 @@
             <x-Gipsocarton-category />
             <x-Gipsocarton-category />
             <x-Gipsocarton-category />
+            <div class="flex max-w-full gap-4 mb-4">
+                <x-Video-block />
+            </div>
+            <x-Gipsocarton-category />
+            <x-Gipsocarton-category />
+            <x-Gipsocarton-category />
+            <x-Gipsocarton-category />
         </div>
 </div>
 </x-layout-public>
