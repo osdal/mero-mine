@@ -31,6 +31,7 @@
             <x-Gipsocarton-category />
             <x-Gipsocarton-category />
             <x-Gipsocarton-category />
+            <x-Produsers />
         </div>
 </div>
 </x-layout-public>
