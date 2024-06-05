@@ -2,7 +2,7 @@
     <x-layout-public>
         <x-banner-top />
         <x-Menu-top />
-        <div class="container mx-auto flex flex-col">
+        <div class="container mx-auto flex flex-col gap-5">
             <div class="flex">
                 <div class="categories p-3 pl-0 gap-3 w-1/6">
                     <x-Categories />
@@ -32,6 +32,7 @@
             <x-Gipsocarton-category />
             <x-Gipsocarton-category />
             <x-Produsers />
+            <x-Description />
         </div>
 </div>
 </x-layout-public>
