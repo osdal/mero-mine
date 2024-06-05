@@ -8,5 +8,6 @@
             {{ $category->name }}
         </a>
     @endforeach
-    Все категории +
+    <p>Все категории +</p>
 </div>
+<img src="img/action.jpg" alt="">
