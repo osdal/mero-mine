@@ -2,7 +2,7 @@
     <nav class="container mx-auto text-white">
         <div class="grid grid-cols-1 md:grid-cols-5 gap-3 items-center py-2">
             <x-logo />
-            <div class="w-full md:col-span-2 flex gap-3 items-center">
+            <div class=" lg:hidden w-full md:col-span-2 flex gap-3 items-center">
                 <div>
                     Онлайн гіпермаркет<br>
                     будівельних матеріалів
