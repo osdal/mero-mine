@@ -132,7 +132,7 @@
         </div>
         <div class="grid grid-cols-1 md:grid-cols-5 gap-3 items-center py-2">
             <x-Dropdown-categories />
-            <div class="md:col-span-3">
+            <div class="md:col-span-3 mt-4">
                 <x-search-top />
             </div>
             <div class="flex justify-end">

@@ -6,6 +6,7 @@
             <div class="flex">
                 <div class="categories p-3 pl-0 gap-3 w-1/6">
                     <x-Categories />
+                    <x-Entrance />
                 </div>
                 <div class="content p-3 flex flex-col gap-4 w-full">
                     <x-Slider />
